@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hello :) I'm Gabriel!!</h1>
 <h3 align="center">Engineering student at École polytechnique</h3>
 
 I am a 2nd year international student at École Polytechnique's engineering program. Previously, I studied Computer Engineering at the University of São Paulo.
@@ -11,6 +11,8 @@ I followed a curriculum combining theoretical courses in key areas of electrical
 <p align="left">
 <a href="https://linkedin.com/in/gabrielcarvalho-x22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho-x22" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arkham_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkham_knight" height="30" width="40" /></a>
+</p>
+<a href="https://codeforces.com/profile/arkham_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="arkham_knight1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
