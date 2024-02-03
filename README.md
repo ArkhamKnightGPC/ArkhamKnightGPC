@@ -11,7 +11,7 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 - [INF421](https://github.com/ArkhamKnightGPC/INF421): Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
 - [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP): IP Tracker made using Next.js and the **react-leaflet** package.
 
-Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu for any inquiries or collaboration opportunities.
+Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
