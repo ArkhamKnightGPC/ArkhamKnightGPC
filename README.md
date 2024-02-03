@@ -3,7 +3,7 @@
 
 I am a 2nd year international student at École Polytechnique's engineering program. Previously, I studied Computer Engineering at the University of São Paulo.
 
-I followed a curriculum combining theoretical courses in key areas of electrical engineering and computer science (i.e. Electrical circuits, Control System, Signals and Systems) as well as laboratories to get hands on experience (i.e. Digital Systems Lab with VHDL, Microprocessor lab with ARM Assembly projects). On my fourth year of studies, I joined École Polytechnique on a double degree program.
+I followed a curriculum combining theoretical courses in key areas of electrical engineering and computer science (i.e. Electrical circuits, Control Systems, Signals and Systems, Algorithms & Data Structures) as well as laboratories to get hands on experience (i.e. Digital Systems Lab with VHDL, Microprocessor lab with ARM Assembly projects). On my fourth year of studies, I joined École Polytechnique on a double degree program.
 
 - 📫 How to reach me **gabriel.pereira-de-carvalho@polytechnique.edu**
 
