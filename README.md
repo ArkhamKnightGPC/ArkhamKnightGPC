@@ -1,16 +1,17 @@
-<h1 align="center">Hello :) I'm Gabriel!!</h1>
-<h3 align="center">Engineering student at École polytechnique</h3>
+<h1 align="center">Hello :) I'm Gabriel!</h1>
+<h3 align="center">Engineering student at École Polytechnique</h3>
 
-I am a 2nd year international student at École Polytechnique's engineering program. Previously, I studied Computer Engineering at the University of São Paulo.
+I'm a 2nd year international student at École Polytechnique, pursuing my engineering degree. Previously, I studied Computer Engineering at the University of São Paulo.
 
-I followed a curriculum combining theoretical courses in key areas of electrical engineering and computer science (i.e. Electrical circuits, Control Systems, Signals and Systems, Algorithms & Data Structures) as well as laboratories to get hands on experience (i.e. Digital Systems Lab with VHDL, Microprocessor lab with ARM Assembly projects). On my fourth year of studies, I joined École Polytechnique on a double degree program.
+My academic journey has equipped me with a strong foundation in theoretical courses such as Electrical Circuits, Control Systems, Signals and Systems, and Algorithms & Data Structures. I've also gained practical experience through labs, including Digital Systems Lab with VHDL and Microprocessor Lab with ARM Assembly projects. Currently, I'm on a double degree program at École Polytechnique.
 
-Some of my projects on Github:
-- [Solutions to competitive programming problems](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC) includes algorithms such as Fast Fourier Transform, Wavelet Trees and the Aho-Corasick automaton.
-- [Evolutionary algorithms project](https://github.com/ArkhamKnightGPC/INF421) for an informatics course at École polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
-- [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)  made using Next.js and the **react-leaflet** package.
+### Some of My Projects on GitHub:
 
-- 📫 How to reach me **gabriel.pereira-de-carvalho@polytechnique.edu**
+- [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC): Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
+- [INF421](https://github.com/ArkhamKnightGPC/INF421): Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
+- [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP): IP Tracker made using Next.js and the **react-leaflet** package.
+
+Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu for any inquiries or collaboration opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
