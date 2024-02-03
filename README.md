@@ -5,6 +5,11 @@ I am a 2nd year international student at École Polytechnique's engineering prog
 
 I followed a curriculum combining theoretical courses in key areas of electrical engineering and computer science (i.e. Electrical circuits, Control Systems, Signals and Systems, Algorithms & Data Structures) as well as laboratories to get hands on experience (i.e. Digital Systems Lab with VHDL, Microprocessor lab with ARM Assembly projects). On my fourth year of studies, I joined École Polytechnique on a double degree program.
 
+Some of my projects on Github:
+- [Solutions to competitive programming problems](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC) includes algorithms such as Fast Fourier Transform, Wavelet Trees and the Aho-Corasick automaton.
+- [Evolutionary algorithms project](https://github.com/ArkhamKnightGPC/INF421) for an informatics course at École polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
+- [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)  made using Next.js and the **react-leaflet** package.
+
 - 📫 How to reach me **gabriel.pereira-de-carvalho@polytechnique.edu**
 
 <h3 align="left">Connect with me:</h3>
