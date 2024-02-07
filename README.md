@@ -7,14 +7,29 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 
 ### Some of My Projects on GitHub:
 
-- [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC): Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
-- [INF421](https://github.com/ArkhamKnightGPC/INF421): Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
-- [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP): IP Tracker made using Next.js and the **react-leaflet** package.
-- [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca): VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
-- [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos): Bare metal application implementing process switching in an ARM based processor emulator.
-- [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile): Simple keyboard drived built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
-- [MAP412](https://github.com/ArkhamKnightGPC/MAP412): Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
-- [MAP433](https://github.com/ArkhamKnightGPC/MAP433):Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
+- ### [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
+Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
+
+- ### [INF421](https://github.com/ArkhamKnightGPC/INF421)
+Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
+
+- ### [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP)
+IP Tracker made using Next.js and the **react-leaflet** package.
+
+- ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
+VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+
+- ### [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos)
+Bare metal application implementing process switching in an ARM based processor emulator.
+
+- ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
+Simple keyboard drived built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+
+- ### [MAP412](https://github.com/ArkhamKnightGPC/MAP412)
+Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
+
+- ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
+Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
