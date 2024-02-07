@@ -11,6 +11,7 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 - [INF421](https://github.com/ArkhamKnightGPC/INF421): Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
 - [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP): IP Tracker made using Next.js and the **react-leaflet** package.
 - [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca): VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+- [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos): bare metal application implementing process switching in an ARM based processor emulator.
 
 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
