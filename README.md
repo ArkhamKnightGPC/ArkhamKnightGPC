@@ -31,7 +31,7 @@ Problem sets from a numerical analysis course at École polytechnique, includes 
 - ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
 Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
-Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
+📫 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
