@@ -13,6 +13,8 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 - [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca): VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
 - [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos): Bare metal application implementing process switching in an ARM based processor emulator.
 - [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile): Simple keyboard drived built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+- [MAP412](https://github.com/ArkhamKnightGPC/MAP412): Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
+- [MAP433](https://github.com/ArkhamKnightGPC/MAP433):Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
