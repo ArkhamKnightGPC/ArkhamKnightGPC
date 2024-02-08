@@ -23,7 +23,7 @@ VHDL project for a security system using an ultrasonic sensor and a servo motor.
 Bare metal application implementing process switching in an ARM based processor emulator.
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
-Simple keyboard drived built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
 
 - ### [MAP412](https://github.com/ArkhamKnightGPC/MAP412)
 Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
