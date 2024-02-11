@@ -5,13 +5,21 @@ I'm a 2nd year international student at École Polytechnique, pursuing my engine
 
 My academic journey has equipped me with a strong foundation in theoretical courses such as Electrical Circuits, Control Systems, Signals and Systems, and Algorithms & Data Structures. I've also gained practical experience through labs, including Digital Systems Lab with VHDL and Microprocessor Lab with ARM Assembly projects. Currently, I'm on a double degree program at École Polytechnique.
 
-### Some of My Projects on GitHub:
-
-- ### [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
-Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
+### 🏫 Projects from courses at École polytechnique:
 
 - ### [INF421](https://github.com/ArkhamKnightGPC/INF421)
 Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
+
+- ### [MAP412](https://github.com/ArkhamKnightGPC/MAP412)
+Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
+
+- ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
+Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
+
+### 💻 Some of my other projects on GitHub:
+
+- ### [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
+Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
 
 - ### [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP)
 IP Tracker made using Next.js and the **react-leaflet** package.
@@ -25,11 +33,8 @@ Bare metal application implementing process switching in an ARM based processor 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
 Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
 
-- ### [MAP412](https://github.com/ArkhamKnightGPC/MAP412)
-Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
-
-- ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
-Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
+- ### [SineWave_ArduinoNano](https://github.com/ArkhamKnightGPC/SineWave_ArduinoNano)
+TinyML project that trains a neural network model to predict values of the sine function. Then, uses TensorFlow Lite to convert this model and generate a C++ file which is loaded on an **Arduino Nano** board and used to control a blinking led.
 
 📫 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
