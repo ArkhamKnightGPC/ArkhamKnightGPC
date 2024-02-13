@@ -18,10 +18,10 @@ Problem sets from a statistics course at École polytechnique, includes analysis
 
 ### 💻 Some of my other projects on GitHub:
 
-- ### [CadernoArkhamICPC](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
+- ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
 Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
 
-- ### [RastreadorIP](https://github.com/ArkhamKnightGPC/RastreadorIP)
+- ### [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)
 IP Tracker made using Next.js and the **react-leaflet** package.
 
 - ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
