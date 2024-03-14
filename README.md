@@ -56,6 +56,3 @@ Bare metal application implementing process switching in an ARM based processor 
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
 Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
-
-- ### [SineWave_ArduinoNano](https://github.com/ArkhamKnightGPC/SineWave_ArduinoNano)
-TinyML project that trains a neural network model to predict values of the sine function. Then, uses TensorFlow Lite to convert this model and generate a C++ file which is loaded on an **Arduino Nano** board and used to control a blinking led.
