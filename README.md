@@ -35,7 +35,7 @@ Assignments from the Data Analysis in C++ course at École polytechnique.
 Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***.
 
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
-Assignments from the FPGA lab course at École polytechnique.
+Project from the FPGA lab course at École polytechnique.
 
 - ### [PHY433](https://github.com/ArkhamKnightGPC/PHY433)
 Homework and quizzes from the course Statistical Physics at École polytechnique.
