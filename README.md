@@ -37,9 +37,6 @@ Assignments from the course 3D computer graphics at École polytechnique using *
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
 Project from the FPGA lab course at École polytechnique.
 
-- ### [PHY433](https://github.com/ArkhamKnightGPC/PHY433)
-Homework and quizzes from the course Statistical Physics at École polytechnique.
-
 ### 💻 Some of my other projects on GitHub:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
