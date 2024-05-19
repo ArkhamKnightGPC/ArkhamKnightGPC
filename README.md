@@ -35,7 +35,7 @@ Assignments from the Data Analysis in C++ course at École polytechnique.
 Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***.
 
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
-Project from the FPGA lab course at École polytechnique.
+Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
 
 ### 💻 Some of my other projects on GitHub:
 
