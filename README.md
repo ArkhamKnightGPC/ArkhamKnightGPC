@@ -9,8 +9,8 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 
 <p align="center">
 <a href="https://linkedin.com/in/gabrielcarvalho-x22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho-x22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arkhamknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkham_knight" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arkham_knight1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkham_knight1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arkham_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkham_knight" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arkhamknight1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arkham_knight1" height="30" width="40" /></a>
 </p>
 
 ___
