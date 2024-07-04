@@ -26,8 +26,6 @@ Problem sets from a numerical analysis course at École polytechnique, includes 
 - ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
 Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
-### 👷 Courses currently in progress:
-
 - ### [INF442](https://github.com/ArkhamKnightGPC/INF442)
 Assignments from the Data Analysis in C++ course at École polytechnique.
 
