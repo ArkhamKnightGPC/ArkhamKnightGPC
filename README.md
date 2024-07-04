@@ -17,6 +17,9 @@ ___
 
 ### 🏫 Projects from courses at École polytechnique:
 
+- ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
+Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
+
 - ### [INF421](https://github.com/ArkhamKnightGPC/INF421)
 Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
 
@@ -31,9 +34,6 @@ Assignments from the Data Analysis in C++ course at École polytechnique.
 
 - ### [INF443](https://github.com/ArkhamKnightGPC/INF443)
 Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***.
-
-- ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
-Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
 
 ### 💻 Some of my other projects on GitHub:
 
