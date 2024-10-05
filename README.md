@@ -35,6 +35,9 @@ Assignments from the Data Analysis in C++ course at École polytechnique.
 - ### [INF443](https://github.com/ArkhamKnightGPC/INF443)
 Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***.
 
+- ### [PSC](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
+Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
+
 ### 💻 Some of my other projects on GitHub:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
