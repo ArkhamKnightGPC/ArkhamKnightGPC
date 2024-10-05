@@ -1,7 +1,7 @@
 <h1 align="center">Hello :) I'm Gabriel!</h1>
 <h3 align="center">Engineering student at École Polytechnique</h3>
 
-I'm a 2nd year international student at École Polytechnique, pursuing my engineering degree. Previously, I studied Computer Engineering at the University of São Paulo.
+I'm a 2nd year international student at École Polytechnique, pursuing my engineering degree. Previously, I studied Computer Engineering at the University of São Paulo. In high school and at my first year of university, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas).
 
 My academic journey has equipped me with a strong foundation in theoretical courses such as Electrical Circuits, Control Systems, Signals and Systems, and Algorithms & Data Structures. I've also gained practical experience through labs, including Digital Systems Lab with VHDL and Microprocessor Lab with ARM Assembly projects. Currently, I'm on a double degree program at École Polytechnique.
 
