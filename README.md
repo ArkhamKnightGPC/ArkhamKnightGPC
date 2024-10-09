@@ -15,6 +15,14 @@ My academic journey has equipped me with a strong foundation in theoretical cour
 
 ___
 
+### 📓 Works in progress:
+
+- ### [INF554](https://github.com/ArkhamKnightGPC/INF554)
+Assignments from the course Machine and Deep learning at Ecole polytechnique.
+
+- ### [INF557](https://github.com/ArkhamKnightGPC/INF557)
+Assignments from the course Fundamentals of Computer Networking at Ecole polytechnique.
+
 ### 🏫 Projects from courses at École polytechnique:
 
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
