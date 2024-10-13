@@ -1,9 +1,7 @@
 <h1 align="center">Hello :) I'm Gabriel!</h1>
-<h3 align="center">Engineering student at École Polytechnique</h3>
+<h3 align="center">Engineering student at Ecole polytechnique</h3>
 
-I'm a 2nd year international student at École Polytechnique, pursuing my engineering degree. Previously, I studied Computer Engineering at the University of São Paulo. In high school and at my first year of university, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas).
-
-My academic journey has equipped me with a strong foundation in theoretical courses such as Electrical Circuits, Control Systems, Signals and Systems, and Algorithms & Data Structures. I've also gained practical experience through labs, including Digital Systems Lab with VHDL and Microprocessor Lab with ARM Assembly projects. Currently, I'm on a double degree program at École Polytechnique.
+I'm a 3rd year international student at Ecole polytechnique in the Electrical Engineering specialisation. Previously, I studied Computer Engineering at the University of São Paulo before joining Ecole polytechnique on a double degree program. In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas). In my Github page, you'll find several personal projects as well as projects for university courses at both the University of São Paulo and Ecole polytechnique.
 
 📫 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
