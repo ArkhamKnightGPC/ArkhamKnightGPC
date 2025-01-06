@@ -17,6 +17,9 @@ ___
 
 ### 📓 Works in progress:
 
+- ### [INF564](https://github.com/ArkhamKnightGPC/INF564)
+Assignments from the Compilation course at Ecole polytechnique.
+
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems!
 
