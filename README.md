@@ -17,6 +17,9 @@ ___
 
 ### 📓 Works in progress:
 
+- ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
+Solutions to Codechef problems!
+
 ### 🏫 Projects from courses at École polytechnique:
 
 - ### [INF554](https://github.com/ArkhamKnightGPC/INF554)
