@@ -18,7 +18,13 @@ ___
 ### 📓 Works in progress:
 
 - ### [INF564](https://github.com/ArkhamKnightGPC/INF564)
-Assignments from the Compilation course at Ecole polytechnique.
+Assignments from the Compilation course at Ecole polytechnique. The goal of these assignments is to write a compiler (in Java) for a simplified version of Python to x86-64 Assembly.
+
+- ### [INF567-TDs](https://github.com/ArkhamKnightGPC/INF567-TDs)
+Problem sets from the Wireless Networks course at Ecole polytechnique.
+
+- ### [INF567-Project](https://github.com/ArkhamKnightGPC/INF567-Project)
+Project developed the Wireless Networks course at Ecole polytechnique. The goal of the project is to make a working Light Fidelity (Li-Fi) prototype.
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems!
@@ -29,7 +35,7 @@ Solutions to Codechef problems!
 Jupyter Notebook assignments from the course Machine and Deep learning (with PyTorch) at Ecole polytechnique. Topics covered include: SVMs, MLPs, CNNs, RNNs, Graph Neural Networks.
 
 - ### [INF557](https://github.com/ArkhamKnightGPC/INF557)
-Assignments from the course Fundamentals of Computer Networking at Ecole polytechnique. Includes paper assignments in LaTeX with state machines for different transport layer algorithms, message charts as well as two coding assignments (simplified wget command line application and DV routing implementation).
+Assignments from the course Fundamentals of Computer Networking at Ecole polytechnique. Includes paper assignments in LaTeX with state machines for different transport layer algorithms, message charts as well as coding assignments (networking tutorials in C, simplified wget command line application and DV routing implementation).
 
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
 Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
