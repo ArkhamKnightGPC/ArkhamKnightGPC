@@ -18,7 +18,7 @@ ___
 ### 📓 Works in progress:
 
 - ### [INF564](https://github.com/ArkhamKnightGPC/INF564)
-Assignments from the Compilation course at Ecole polytechnique. The goal of these assignments is to write a compiler (in Java) for a simplified version of Python to x86-64 Assembly.
+Assignments from the Compilation course at Ecole polytechnique. The goal of these assignments is to write a compiler for a simplified version of Python to x86-64 Assembly.
 
 - ### [INF567-TDs](https://github.com/ArkhamKnightGPC/INF567-TDs)
 Problem sets from the Wireless Networks course at Ecole polytechnique.
