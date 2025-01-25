@@ -18,7 +18,7 @@ ___
 ### 📓 Works in progress:
 
 - ### [INF564](https://github.com/ArkhamKnightGPC/INF564)
-Assignments from the Compilation course at Ecole polytechnique. The goal of these assignments is to write a compiler for a simplified version of Python to x86-64 Assembly.
+Assignments from the Compilation course at Ecole polytechnique. Assignements include: x86 assembly programs, an interpreter for a fragment of the Python language, a parser (made with Jflex and CUP) for a small logo language and a compiler project for a fragment of Java.
 
 - ### [INF567-TDs](https://github.com/ArkhamKnightGPC/INF567-TDs)
 Problem sets from the Wireless Networks course at Ecole polytechnique.
@@ -28,6 +28,9 @@ Project developed the Wireless Networks course at Ecole polytechnique. The goal 
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems!
+
+- ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
+This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
 
 ### 🏫 Projects from courses at École polytechnique:
 
