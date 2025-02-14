@@ -27,7 +27,7 @@ Problem sets from the Wireless Networks course at Ecole polytechnique.
 Project developed the Wireless Networks course at Ecole polytechnique. The goal of the project is to make a working Light Fidelity (Li-Fi) prototype.
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
-Solutions to Codechef problems!
+Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
 
 - ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
 This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
