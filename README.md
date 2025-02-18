@@ -29,10 +29,13 @@ Project developed the Wireless Networks course at Ecole polytechnique. The goal 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
 
-- ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
-This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
+- ### [PHY581C](https://github.com/ArkhamKnightGPC/PHY581C)
+The goal of this project is to design an ASIC for a single-photon photodetector readout (known as SiPM or Silicon Photo-electron Multiplier). The circuit must perform high speed, low noise amplification and discrimination to allow pico-second timing measurement. The circuit was designed using **Cadence Virtuoso** and a library of TSMC components was used for layout.
 
 ### 🏫 Projects from courses at École polytechnique:
+
+- ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
+This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
 
 - ### [INF554](https://github.com/ArkhamKnightGPC/INF554)
 Jupyter Notebook assignments from the course Machine and Deep learning (with PyTorch) at Ecole polytechnique. Topics covered include: SVMs, MLPs, CNNs, RNNs, Graph Neural Networks.
