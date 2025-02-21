@@ -32,6 +32,9 @@ Solutions to Codechef problems! Includes topics in number theory, graphs, fenwic
 - ### [PHY581C](https://github.com/ArkhamKnightGPC/PHY581C)
 The goal of this project is to design an ASIC for a single-photon photodetector readout (known as SiPM or Silicon Photo-electron Multiplier). The circuit must perform high speed, low noise amplification and discrimination to allow pico-second timing measurement. The circuit was designed using **Cadence Virtuoso** and a library of TSMC components was used for layout.
 
+- ### [PHY564A](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
+Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project explores wireless time synchronisation between the two ESP32 in the controllers and the Raspberry Pi running the core of the game.
+
 ### 🏫 Projects from courses at École polytechnique:
 
 - ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
