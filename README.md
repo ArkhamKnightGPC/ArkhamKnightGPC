@@ -38,7 +38,7 @@ Stepmania based group game project for PHY564A Open Electronics course at Ecole 
 ### 💻❤️ Some of my other projects on Github:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
-Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees).
+Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees) and Tarjan's algorithm for finding bridges and articulation points in trees.
 
 - ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
 This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
