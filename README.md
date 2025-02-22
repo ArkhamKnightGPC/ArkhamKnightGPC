@@ -49,25 +49,40 @@ Assignments from the course Fundamentals of Computer Networking at Ecole polytec
 - ### [PHY473R](https://github.com/ArkhamKnightGPC/PHY473R)
 Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
 
+- ### [INF442](https://github.com/ArkhamKnightGPC/INF442)
+Assignments from the Data Analysis in C++ course at École polytechnique. Includes implementations of the kd-tree data structure for KNN, Voronoi partitions and Lloyd's algorithm, hierarchical clustering, kernel density estimators, SVM and simple neural networks.
+
+- ### [INF443](https://github.com/ArkhamKnightGPC/INF443)
+Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***. Includes implementations of shader effects, Phong shading, procedural 3D modelisation, textures, animation and physical simulation.
+
 - ### [INF421](https://github.com/ArkhamKnightGPC/INF421)
 Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
 
 - ### [MAP412](https://github.com/ArkhamKnightGPC/MAP412)
-Problem sets from a numerical analysis course at École polytechnique, includes theoretical proofs for runtime and convergence rates as well as implementations.
+Jupyter notebook assignments from a numerical analysis course at École polytechnique, includes analysis of finite precision floating point calculations, polynomial interpolation algorithms, numerical integration methods, linear system solvers, numerical methods for non-linear systems, numerical methods for ODEs and parabolical EDPs.
 
 - ### [MAP433](https://github.com/ArkhamKnightGPC/MAP433)
-Problem sets from a statistics course at École polytechnique, includes analysis of the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
+Problem sets from a statistics course at École polytechnique. Includes theory-oriented problem sets with solutions in Latex and jupyter notebook assignments with analysis of datasets like the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
-- ### [INF442](https://github.com/ArkhamKnightGPC/INF442)
-Assignments from the Data Analysis in C++ course at École polytechnique.
-
-- ### [INF443](https://github.com/ArkhamKnightGPC/INF443)
-Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***.
+- ### [INF371](https://github.com/ArkhamKnightGPC/INF371)
+  Assignements from the course INF371: Mechanisms of Object-Oriented Programming Languages at École polytechnique. Includes OO implementations of the union find data structure, linked lists, hash tables. Graphical applications using Java AWT to explore inheritance concepts, including a calculator to explore expression parsing. And a compiler assignement for the simplified *while* language.
 
 - ### [PSC](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
 Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
 
+- ### [Polytechnique Tronc Commun](https://github.com/ArkhamKnightGPC/PetitesClassesTroncCommun)
+Some homework assignments for first year courses in maths and physics at École polytechnique (Analysis, Probability Theory and Quantum Mechanics). Solutions are provided in Latex. A [project on spatial properties of hash tables was done in a separate repository](https://github.com/ArkhamKnightGPC/MAP361HashTables).
+
+- ### [MAP432](https://github.com/ArkhamKnightGPC/MAP432)
+A homework assignment for MAP432: Markov Chains and Martingales at École polytechnique. Explores the Metropolis-Hastings algorithm and the Doeblin criterion.
+
+- ### [PHY431](https://github.com/ArkhamKnightGPC/PHY431)
+Assignments from the course PHY431: Special relativity and variational mechanics at École polytechnique. Assignments cover classical relativistic paradoxes, computations in Minkowski spacetime, Euler-Lagrange equations, Lagrangian mechanics, electromagnetic tensors, Hamiltonian mechanics and the Feynman principle.
+
 ### 💻 Some of my other projects on GitHub:
+
+- ### [Newsfeed Super Aggregator](https://github.com/ArkhamKnightGPC/SuperAgregador)
+Group project for an Object Oriented Programming Lab at University of São Paulo. Web application using the Java SpringBoot framework to create personalised news feeds based on a user's preferred news websites. Bootstrap was used for the frontend and a word cloud feature was implemented using the Kumo library and the Aho Corasick automaton for pattern matching and frequency counting.
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
 Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
@@ -76,10 +91,10 @@ Solutions to competitive programming problems, featuring algorithms like Fast Fo
 IP Tracker made using Next.js and the **react-leaflet** package.
 
 - ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
-VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+Group project for a Digital Systems Lab at University of São Paulo. VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
 
 - ### [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos)
 Bare metal application implementing process switching in an ARM based processor emulator.
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
-Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
