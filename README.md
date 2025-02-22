@@ -1,9 +1,9 @@
 <h1 align="center">Hello :) I'm Gabriel!</h1>
 <h3 align="center">Engineering student at Ecole polytechnique</h3>
 
-I'm a 3rd year international student at Ecole polytechnique in the Electrical Engineering specialisation. Previously, I studied Computer Engineering at the University of São Paulo before joining Ecole polytechnique on a double degree program. In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas). 
+I'm a 3rd year international student at Ecole polytechnique in the Electrical Engineering specialisation. Previously, I studied Computer Engineering at the University of São Paulo before joining Ecole polytechnique on a double degree program. In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas). I was gold medalist in the Brazilian Informatics Olympiad and I love solving competitive programming problems.
 
-In my Github page, you'll find several personal projects as well as projects for university courses at both the University of São Paulo and Ecole polytechnique.
+In my Github page, you'll find projects for university courses at both Ecole polytechnique and the University of São Paulo, and some personal projects!
 
 📫 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
 
@@ -35,7 +35,10 @@ The goal of this project is to design an ASIC for a single-photon photodetector 
 - ### [PHY564A](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
 Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project explores wireless time synchronisation between the two ESP32 in the controllers and the Raspberry Pi running the core of the game.
 
-### 🏫 Projects from courses at École polytechnique:
+### 💻❤️ Some of my other projects on Github:
+
+- ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
+Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees).
 
 - ### [PHY564-Blinder IoT](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
 This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
@@ -79,13 +82,8 @@ A homework assignment for MAP432: Markov Chains and Martingales at École polyte
 - ### [PHY431](https://github.com/ArkhamKnightGPC/PHY431)
 Assignments from the course PHY431: Special relativity and variational mechanics at École polytechnique. Assignments cover classical relativistic paradoxes, computations in Minkowski spacetime, Euler-Lagrange equations, Lagrangian mechanics, electromagnetic tensors, Hamiltonian mechanics and the Feynman principle.
 
-### 💻 Some of my other projects on GitHub:
-
 - ### [Newsfeed Super Aggregator](https://github.com/ArkhamKnightGPC/SuperAgregador)
 Group project for an Object Oriented Programming Lab at University of São Paulo. Web application using the Java SpringBoot framework to create personalised news feeds based on a user's preferred news websites. Bootstrap was used for the frontend and a word cloud feature was implemented using the Kumo library and the Aho Corasick automaton for pattern matching and frequency counting.
-
-- ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
-Solutions to competitive programming problems, featuring algorithms like Fast Fourier Transform, Wavelet Trees, and the Aho-Corasick automaton.
 
 - ### [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)
 IP Tracker made using Next.js and the **react-leaflet** package.
