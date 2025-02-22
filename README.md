@@ -65,7 +65,7 @@ Jupyter notebook assignments from a numerical analysis course at École polytech
 Problem sets from a statistics course at École polytechnique. Includes theory-oriented problem sets with solutions in Latex and jupyter notebook assignments with analysis of datasets like the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
 - ### [INF371](https://github.com/ArkhamKnightGPC/INF371)
-  Assignements from the course INF371: Mechanisms of Object-Oriented Programming Languages at École polytechnique. Includes OO implementations of the union find data structure, linked lists, hash tables. Graphical applications using Java AWT to explore inheritance concepts, including a calculator to explore expression parsing. And a compiler assignement for the simplified *while* language.
+Assignements from the course INF371: Mechanisms of Object-Oriented Programming Languages at École polytechnique. Includes OO implementations of the union find data structure, linked lists, hash tables. Graphical applications using Java AWT to explore inheritance concepts, including a calculator to explore expression parsing. And a compiler assignement for the simplified *while* language.
 
 - ### [PSC](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
 Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
