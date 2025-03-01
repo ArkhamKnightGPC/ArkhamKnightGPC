@@ -24,7 +24,7 @@ Assignments from the Compilation course at Ecole polytechnique. Assignements inc
 Problem sets from the Wireless Networks course at Ecole polytechnique. Topics covered include: physical modelisation of wireless signal propagation, probabilistic WiFi throughput analysis, analysis of 4G peak data rates and DL latency for different frame structures and analysis of different performance metrics for LoRa and SigFox.
 
 - ### [INF567-Project](https://github.com/ArkhamKnightGPC/INF567-Project)
-Project developed the Wireless Networks course at Ecole polytechnique. The goal of the project is to make a working Light Fidelity (Li-Fi) prototype. A ESP32 acts as the lamp driver receiving messages from the Internet via MQTT. An LDR acts as the photoreceiver and an Arduino UNO handles demodulation of the signal to print message on an LCD.
+Project developed the Wireless Networks course at Ecole polytechnique. The goal of the project is to make a working Light Fidelity (Li-Fi) prototype. A ESP32 acts as the lamp driver receiving messages from the Internet via MQTT and transmitting them through a LED. An LDR acts as the photoreceiver and an Arduino UNO handles demodulation of the signal to print message on an LCD. Manchester coding is used for message encoding/decoding, which introduces the problem of wireless clock synchronization between the TX/RX boards.
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
