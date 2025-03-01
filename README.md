@@ -31,12 +31,12 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)  
    - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)  
    - [MAP412: Numerical Analysis](#map412-numerical-analysis)  
-   - [MAP433: Statistics](#map433-statistics)  
+   - [MAP433: Statistics](#map433-statistics)
+   - [MAP432: Markov Chains and Martingales](#map432-markov-chains-and-martingales)  
+   - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-   - [MAP432: Markov Chains and Martingales](#map432-markov-chains-and-martingales)  
-   - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)  
    - [IP Tracker](#ip-tracker)  
    - [Security System](#security-system)  
@@ -97,6 +97,12 @@ Jupyter notebook assignments from a numerical analysis course at École polytech
 - ### [MAP433: Statistics](https://github.com/ArkhamKnightGPC/MAP433)
 Problem sets from a statistics course at École polytechnique. Includes theory-oriented problem sets with solutions in Latex and jupyter notebook assignments with analysis of datasets like the Titanic dataset(DM2) and the Breast Cancer Wisconsin Dataset(EN3).
 
+- ### [MAP432: Markov Chains and Martingales](https://github.com/ArkhamKnightGPC/MAP432)
+A homework assignment for MAP432: Markov Chains and Martingales at École polytechnique. Explores the Metropolis-Hastings algorithm and the Doeblin criterion.
+
+- ### [PHY431: Special Relativity and Variational Mechanics](https://github.com/ArkhamKnightGPC/PHY431)
+Assignments from the course PHY431: Special relativity and variational mechanics at École polytechnique. Assignments cover classical relativistic paradoxes, computations in Minkowski spacetime, Euler-Lagrange equations, Lagrangian mechanics, electromagnetic tensors, Hamiltonian mechanics and the Feynman principle.
+
 - ### [INF371: Object-Oriented Programming](https://github.com/ArkhamKnightGPC/INF371)
 Assignements from the course INF371: Mechanisms of Object-Oriented Programming Languages at École polytechnique. Includes OO implementations of the union find data structure, linked lists, hash tables. Graphical applications using Java AWT to explore inheritance concepts, including a calculator to explore expression parsing. And a compiler assignement for the simplified *while* language.
 
@@ -105,12 +111,6 @@ Group project developed for the [IP Paris Swarm Rescue Competition](https://emma
 
 - ### [Polytechnique Tronc Commun](https://github.com/ArkhamKnightGPC/PetitesClassesTroncCommun)
 Some homework assignments for first year courses in maths and physics at École polytechnique (Analysis, Probability Theory and Quantum Mechanics). Solutions are provided in Latex. A [project on spatial properties of hash tables was done in a separate repository](https://github.com/ArkhamKnightGPC/MAP361HashTables).
-
-- ### [MAP432: Markov Chains and Martingales](https://github.com/ArkhamKnightGPC/MAP432)
-A homework assignment for MAP432: Markov Chains and Martingales at École polytechnique. Explores the Metropolis-Hastings algorithm and the Doeblin criterion.
-
-- ### [PHY431: Special Relativity and Variational Mechanics](https://github.com/ArkhamKnightGPC/PHY431)
-Assignments from the course PHY431: Special relativity and variational mechanics at École polytechnique. Assignments cover classical relativistic paradoxes, computations in Minkowski spacetime, Euler-Lagrange equations, Lagrangian mechanics, electromagnetic tensors, Hamiltonian mechanics and the Feynman principle.
 
 - ### [Newsfeed Super Aggregator](https://github.com/ArkhamKnightGPC/SuperAgregador)
 Group project for an Object Oriented Programming Lab at University of São Paulo. Web application using the Java SpringBoot framework to create personalised news feeds based on a user's preferred news websites. Bootstrap was used for the frontend and a word cloud feature was implemented using the Kumo library and the Aho Corasick automaton for pattern matching and frequency counting.
