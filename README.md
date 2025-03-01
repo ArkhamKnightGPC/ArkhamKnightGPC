@@ -25,7 +25,8 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [Competitive Programming Notebook](#competitive-programming-notebook)  
    - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)  
    - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)  
-   - [INF557: Fundamentals of Computer Networking](#inf557-fundamentals-of-computer-networking)  
+   - [INF557: Fundamentals of Computer Networking](#inf557-fundamentals-of-computer-networking)
+   - [PHY559A: Conception of Digital and Analog Integrated Circuits](#phy559a-conception-of-digital-and-analog-integrated-circuits)
    - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)  
    - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)  
    - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)  
@@ -78,6 +79,9 @@ Jupyter Notebook assignments from the course Machine and Deep learning (with PyT
 
 - ### [INF557: Fundamentals of Computer Networking](https://github.com/ArkhamKnightGPC/INF557)
 Assignments from the course Fundamentals of Computer Networking at Ecole polytechnique. Includes paper assignments in LaTeX with state machines for different transport layer algorithms, message charts as well as coding assignments (introductory tutorials in C, simplified wget command line application and DV routing implementation).
+
+- ### [PHY559A: Conception of Digital and Analog Integrated Circuits](https://github.com/ArkhamKnightGPC/PHY559A-Spice)
+Spice lab session from the course PHY559A (Conception of Digital and Analog Integrated Circuits) at Ecole polytechnique. The purpose of this lab is to introduce SPICE for electrical circuit simulation and study static and dynamical characteristics of the CMOS inverter.
 
 - ### [PHY473R: FPGA lab course](https://github.com/ArkhamKnightGPC/PHY473R)
 Handwritten digit detection on FPGA project from the FPGA lab course at École polytechnique. This project implements Rosenblatt's perceptron for binary classification of 0/1 digits on FPGA using VHDL. The project was developed on a Altera DE2-115 board and includes interfaces with a VGA monitor, an LCD and a TRDB-DC2 camera.
