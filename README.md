@@ -14,15 +14,14 @@ In my Github page, you'll find projects for university courses at both Ecole pol
 </p>
 
 ## Table of Contents
-1. [Introduction](#introduction)  
-2. [Works in Progress](#works-in-progress)  
+1. [Works in Progress](#works-in-progress)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
    - [Codechef Problems](#codechef-problems)  
    - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)  
    - [PHY564A: Open Electronics (Final Project)](#phy564a-open-electronics-final-project)  
-3. [Other Projects](#other-projects)  
+2. [Other Projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)  
    - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)  
    - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)  
