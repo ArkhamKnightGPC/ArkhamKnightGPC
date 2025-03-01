@@ -14,22 +14,22 @@ In my Github page, you'll find projects for university courses at both Ecole pol
 </p>
 
 <h3 align="center">Contents of this README:</h3>
-- [📓 Works in Progress](#-works-in-progress)
+- [📓 Works in progress](#-works-in-progress)
   - [INF564: Compilation](#inf564-compilation)
   - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)
   - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)
   - [Codechef Problems](#codechef-problems)
   - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)
-  - [PHY564A: Open Electronics (Final Project)](#phy564a-open-electronics-final-project)
-- [💻❤️ Other Projects on GitHub](#-other-projects-on-github)
-  - [Competitive Programming Notebook](#competitive-programming-notebook)
-  - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)
+  - [PHY564A: Open Electronics (final project)](#phy564a-open-electronics-final-project)
+- [💻❤️ Some of my other projects on Github](#️-some-of-my-other-projects-on-github)
+  - [Competitive Programming notebook](#competitive-programming-notebook)
+  - [PHY564: Open Electronics (starter project)](#phy564-open-electronics-starter-project)
   - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)
   - [INF557: Fundamentals of Computer Networking](#inf557-fundamentals-of-computer-networking)
-  - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)
+  - [PHY473R: FPGA lab course](#phy473r-fpga-lab-course)
   - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)
-  - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copenGL)
-  - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)
+  - [INF443: 3D computer graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)
+  - [INF421: Algorithms Design (course project)](#inf421-algorithms-design-course-project)
   - [MAP412: Numerical Analysis](#map412-numerical-analysis)
   - [MAP433: Statistics](#map433-statistics)
   - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
@@ -39,8 +39,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
   - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)
   - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)
   - [IP Tracker](#ip-tracker)
-  - [Security System](#security-system)
-
+  - [Security system](#security-system)
 ___
 
 ### 📓 Works in progress:
