@@ -21,7 +21,6 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [Codechef Problems](#codechef-problems)  
    - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)  
    - [PHY564A: Open Electronics (Final Project)](#phy564a-open-electronics-final-project)
-   - [Extramuros Math Exams](#extramuros-math-exams) 
 2. [Other Projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)  
    - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)
@@ -67,9 +66,6 @@ The goal of this project is to design an ASIC for a single-photon photodetector 
 
 - ### [PHY564A: Open Electronics (final project)](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
 Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project explores wireless time synchronisation between the two ESP32 in the controllers and the Raspberry Pi running the core of the game.
-
-- ### [Extramuros Math Exams](https://github.com/ArkhamKnightGPC/ProvaExtramuros)
-Solutions for previous Extramuros math examinations, part of the selection process for Math Master Programs in Brazilian universities.
 
 ### 💻❤️ Some of my other projects on Github:
 
