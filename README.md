@@ -67,6 +67,9 @@ The goal of this project is to design an ASIC for a single-photon photodetector 
 - ### [PHY564A: Open Electronics (final project)](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
 Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project explores wireless time synchronisation between the two ESP32 in the controllers and the Raspberry Pi running the core of the game.
 
+- ### [Extramuros Math Exams](https://github.com/ArkhamKnightGPC/ProvaExtramuros)
+Solutions for previous Extramuros math examinations, part of the selection process for Math Master Programs in Brazilian universities.
+
 ### 💻❤️ Some of my other projects on Github:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
