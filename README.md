@@ -56,7 +56,7 @@ Assignments from the Compilation course at Ecole polytechnique. Assignements inc
 Problem sets from the Wireless Networks course at Ecole polytechnique. Topics covered include: physical modelisation of wireless signal propagation, probabilistic WiFi throughput analysis, analysis of 4G peak data rates and DL latency for different frame structures and analysis of different performance metrics for LoRa and SigFox.
 
 - ### [INF567: Wireless Networks (Project)](https://github.com/ArkhamKnightGPC/INF567-Project)
-Project developed for the course INF567: Wireless Networks at Ecole polytechnique. The goal of this project is to explore different beamforming techniques proposed in scientific papers for Physical Layer Security(PLS) to prevent eavesdropping on VLC systems and attempt to replicate their results on an Octave simulation environment.
+Project developed for the course INF567: Wireless Networks at Ecole polytechnique. The goal of this project is to explore the zero-forcing beamforming technique proposed in a scientific paper for Physical Layer Security(PLS) to prevent both active and passive eavesdropping on VLC systems and attempt to replicate their results with Python simulations.
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
