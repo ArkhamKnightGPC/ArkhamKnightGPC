@@ -65,7 +65,7 @@ Solutions to Codechef problems! Includes topics in number theory, graphs, fenwic
 The goal of this project is to design an ASIC for a single-photon photodetector readout (known as SiPM or Silicon Photo-electron Multiplier). The circuit must perform high speed, low noise amplification and discrimination to allow pico-second timing measurement. The circuit was designed using **Cadence Virtuoso** and a library of TSMC components was used for layout.
 
 - ### [PHY564A: Open Electronics (final project)](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
-Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project explores wireless time synchronisation between the two ESP32 in the controllers and the Raspberry Pi running the core of the game.
+Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project has two components: a pygame application running on a Raspberry Pi 3 Model B+, and a wireless controller based on a ESP32 microcontroller with LED buttons and a 3D case made with Autodesk Fusion. Communication between the Raspberry Pi and the controller is done via Bluetooth Low Energy using GATT notifications.
 
 ### 💻❤️ Some of my other projects on Github:
 
