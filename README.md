@@ -18,27 +18,27 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
-   - [Codechef Problems](#codechef-problems)  
    - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)  
    - [PHY564A: Open Electronics (Final Project)](#phy564a-open-electronics-final-project)
-2. [Other Projects](#other-projects)  
-   - [Competitive Programming Notebook](#competitive-programming-notebook)  
    - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)
    - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)  
    - [INF557: Fundamentals of Computer Networking](#inf557-fundamentals-of-computer-networking)
    - [PHY573A: Micro and Nano electronics Experimental Designs](#phy573a-micro-and-nano-electronics-experimental-designs)
    - [PHY559A: Conception of Digital and Analog Integrated Circuits](#phy559a-conception-of-digital-and-analog-integrated-circuits)
-   - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)  
-   - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)  
+   - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)
+   - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)
    - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)  
    - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)  
    - [MAP412: Numerical Analysis](#map412-numerical-analysis)  
    - [MAP433: Statistics](#map433-statistics)
    - [MAP432: Markov Chains and Martingales](#map432-markov-chains-and-martingales)  
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
-   - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)  
-   - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
+   - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
+2. [Other Projects](#some-of-my-other-projects-on-github)  
+   - [Competitive Programming Notebook](#competitive-programming-notebook)
+   - [Codechef Problems](#codechef-problems)  
+   - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
    - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)  
    - [IP Tracker](#ip-tracker)  
    - [Security System](#security-system)  
@@ -47,7 +47,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
 
 ___
 
-### 📓 Works in progress:
+### 📓 Ecole polytechnique courses:
 
 - ### [INF564: Compilation](https://github.com/ArkhamKnightGPC/INF564)
 Assignments from the Compilation course at Ecole polytechnique. Assignements include: x86 assembly programs, an interpreter for a fragment of the Python language, a parser (made with Jflex and CUP) for a small logo language and a compiler project for a fragment of Java.
@@ -58,19 +58,11 @@ Problem sets from the Wireless Networks course at Ecole polytechnique. Topics co
 - ### [INF567: Wireless Networks (Project)](https://github.com/ArkhamKnightGPC/INF567-Project)
 Project developed for the course INF567: Wireless Networks at Ecole polytechnique. The goal of this project is to explore the zero-forcing beamforming technique proposed in a scientific paper for Physical Layer Security(PLS) to prevent both active and passive eavesdropping on VLC systems and attempt to replicate their results with Python simulations.
 
-- ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
-Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
-
 - ### [PHY581C: ASIC Design with Cadence Virtuoso](https://github.com/ArkhamKnightGPC/PHY581C)
 The goal of this project is to design an ASIC for a single-photon photodetector readout (known as SiPM or Silicon Photo-electron Multiplier). The circuit must perform high speed, low noise amplification and discrimination to allow pico-second timing measurement. The circuit was designed using **Cadence Virtuoso** and a library of TSMC components was used for layout.
 
 - ### [PHY564A: Open Electronics (final project)](https://github.com/ArkhamKnightGPC/PHY564A-StepmaniaIoT)
 Stepmania based group game project for PHY564A Open Electronics course at Ecole polytechnique. The project has two components: a pygame application running on a Raspberry Pi 3 Model B+, and a wireless controller based on a ESP32 microcontroller with LED buttons and a 3D case made with Autodesk Fusion. Communication between the Raspberry Pi and the controller is done via Bluetooth Low Energy using GATT notifications.
-
-### 💻❤️ Some of my other projects on Github:
-
-- ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
-Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees) and Tarjan's algorithm for finding bridges and articulation points in trees.
 
 - ### [PHY564: Open Electronics (starter project)](https://github.com/ArkhamKnightGPC/PHY564A-BlinderIoT)
 This mini project was developed on the first few weeks of the Open Electronics course at Ecole polytechnique. A ESP32 MCU captures the reading of an LDR, and communicates sensor data to a Raspberry Pi via MQTT. The Raspberry Pi uses a Fourier Transform to determine if the light readings correspond to natural light or not and sends a message back to the ESP32 via MQTT to lower/raise the blinders (controlled by a step motor).
@@ -114,11 +106,19 @@ Assignments from the course PHY431: Special relativity and variational mechanics
 - ### [INF371: Object-Oriented Programming](https://github.com/ArkhamKnightGPC/INF371)
 Assignements from the course INF371: Mechanisms of Object-Oriented Programming Languages at École polytechnique. Includes OO implementations of the union find data structure, linked lists, hash tables. Graphical applications using Java AWT to explore inheritance concepts, including a calculator to explore expression parsing. And a compiler assignement for the simplified *while* language.
 
-- ### [IP Paris Swarm Rescue Competition](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
-Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
-
 - ### [Polytechnique Tronc Commun](https://github.com/ArkhamKnightGPC/PetitesClassesTroncCommun)
 Some homework assignments for first year courses in maths and physics at École polytechnique (Analysis, Probability Theory and Quantum Mechanics). Solutions are provided in Latex. A [project on spatial properties of hash tables was done in a separate repository](https://github.com/ArkhamKnightGPC/MAP361HashTables).
+
+### 💻❤️ Some of my other projects on Github:
+
+- ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
+Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees) and Tarjan's algorithm for finding bridges and articulation points in trees.
+
+- ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
+Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
+
+- ### [IP Paris Swarm Rescue Competition](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
+Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
 
 - ### [Newsfeed Super Aggregator](https://github.com/ArkhamKnightGPC/SuperAgregador)
 Group project for an Object Oriented Programming Lab at University of São Paulo. Web application using the Java SpringBoot framework to create personalised news feeds based on a user's preferred news websites. Bootstrap was used for the frontend and a word cloud feature was implemented using the Kumo library and the Aho Corasick automaton for pattern matching and frequency counting.
