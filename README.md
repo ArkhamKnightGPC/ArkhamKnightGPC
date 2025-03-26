@@ -14,7 +14,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
 </p>
 
 ## Table of Contents
-1. [Works in Progress](#works-in-progress)  
+1. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
