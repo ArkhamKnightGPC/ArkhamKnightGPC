@@ -35,7 +35,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-2. [Other Projects](#other-projects)  
+2. [Other projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
