@@ -35,7 +35,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-2. [Other Projects](#some-of-my-other-projects-on-github)  
+2. [Other Projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -109,7 +109,7 @@ Assignements from the course INF371: Mechanisms of Object-Oriented Programming L
 - ### [Polytechnique Tronc Commun](https://github.com/ArkhamKnightGPC/PetitesClassesTroncCommun)
 Some homework assignments for first year courses in maths and physics at École polytechnique (Analysis, Probability Theory and Quantum Mechanics). Solutions are provided in Latex. A [project on spatial properties of hash tables was done in a separate repository](https://github.com/ArkhamKnightGPC/MAP361HashTables).
 
-### 💻❤️ Some of my other projects on Github:
+### 💻 Other projects:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
 Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees) and Tarjan's algorithm for finding bridges and articulation points in trees.
