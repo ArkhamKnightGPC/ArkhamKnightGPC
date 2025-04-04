@@ -1,7 +1,7 @@
 <h1 align="center">Hello :) I'm Gabriel!</h1>
-<h3 align="center">Engineering student at Ecole polytechnique</h3>
+<h3 align="center">Engineering student at University of São Paulo and Ecole polytechnique</h3>
 
-I'm a 3rd year international student at Ecole polytechnique in the Electrical Engineering specialisation. Previously, I studied Computer Engineering at the University of São Paulo before joining Ecole polytechnique on a double degree program. In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
+I am a computer engineering student from the University of São Paulo, currently on a double degree program at Ecole Polytechnique and interning at the Arm Sophia Antipolis office. In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
 
 In my Github page, you'll find projects for university courses at both Ecole polytechnique and the University of São Paulo, and some personal projects!
 
