@@ -4,9 +4,9 @@
 I am a computer engineering student from the University of São Paulo, currently on a double degree program at Ecole Polytechnique.
 
 My experiences include:
-- [web dev internships at the Brazilian edtech Ada Tech](https://ada.tech/)
-- [a summer internship at STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
-- [a six-months internship at Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office)
+- web dev internships at the [Brazilian edtech Ada Tech](https://ada.tech/)
+- a summer internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
+- a six-months internship at [Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office)
 
 In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
 
