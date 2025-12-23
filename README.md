@@ -1,18 +1,20 @@
-<h1 align="center">Hello :) I'm Gabriel!</h1>
-<h3 align="center">Engineering student at University of São Paulo and Ecole polytechnique</h3>
+<h1 align="center">Hello there :) I'm Gabriel!</h1>
+<h3 align="center">Student researcher at University of São Paulo (Ecole polytechnique X22)</h3>
+---
 
-I am a computer engineering student from the University of São Paulo, currently on a double degree program at Ecole Polytechnique.
+## 👩‍💻 About Me
+- I am a brazilian computer engineering student currently working at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷.
+- Graduate from the [engineering program at Ecole Polytechnique](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 🇫🇷
+- worked as a web developed in the [Brazilian edtech Ada Tech](https://ada.tech/)
+- summer internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
+- six-months "end-of-studies" internship at [Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office)
+- in high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
 
-My experiences include:
-- web dev internships at the [Brazilian edtech Ada Tech](https://ada.tech/)
-- a summer internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
-- a six-months internship at [Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office)
+In this Github page, you'll find my more recent projects as well as university courses at both Ecole polytechnique and the University of São Paulo.
 
-In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
+**Interests**: Computer architecture, Digital electronics, FPGAs, Hardware implementations for cryptography (*crypto-hardware*).
 
-In my Github page, you'll find projects for university courses at both Ecole polytechnique and the University of São Paulo, and some personal projects!
-
-📫 Feel free to reach out to me at gabriel.pereira-de-carvalho@polytechnique.edu
+📫 Please feel free to reach out to me at gabriel.pereira-de-carvalho.2022@polytechnique.org :)
 
 <p align="center">
 <a href="https://linkedin.com/in/gabrielcarvalho-x22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho-x22" height="30" width="40" /></a>
@@ -21,7 +23,8 @@ In my Github page, you'll find projects for university courses at both Ecole pol
 </p>
 
 ## Table of Contents
-1. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
+1. [Hot out of the oven](#hot-out-of-the-oven)
+2. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
@@ -42,7 +45,7 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-2. [Other projects](#other-projects)  
+3. [Other projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -53,6 +56,14 @@ In my Github page, you'll find projects for university courses at both Ecole pol
    - [KBD-ARM-Versatile](#kbd-arm-versatile)
 
 ___
+
+### 🍕 Hot out of the oven
+
+- ###[Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
+VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
+
+- ###[FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
+Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
 
 ### 📓 Ecole polytechnique courses:
 
