@@ -23,7 +23,9 @@ In this Github page, you'll find my more recent projects as well as university c
 
 ## Table of Contents
 1. [Hot out of the oven](#hot-out-of-the-oven)
-2. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
+   - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
+   - [FPGA implementations of arithmetic functions](fPGA-implementation-of-arithmetic-functions)
+3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
@@ -44,7 +46,7 @@ In this Github page, you'll find my more recent projects as well as university c
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-3. [Other projects](#other-projects)  
+4. [Other projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -58,10 +60,10 @@ ___
 
 ### 🍕 Hot out of the oven
 
-- ###[Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
+- ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
 
-- ###[FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
+- ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
 Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
 
 ### 📓 Ecole polytechnique courses:
