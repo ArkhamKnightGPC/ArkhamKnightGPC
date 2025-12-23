@@ -1,6 +1,5 @@
 <h1 align="center">Hello there :) I'm Gabriel!</h1>
 <h3 align="center">Student researcher at University of São Paulo (Ecole polytechnique X22)</h3>
----
 
 ## 👩‍💻 About Me
 - I am a brazilian computer engineering student currently working at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷.
