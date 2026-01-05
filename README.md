@@ -22,9 +22,10 @@ In this Github page, you'll find my more recent projects as well as university c
 </p>
 
 ## Table of Contents
-1. [Hot out of the oven](#hot-out-of-the-oven)
+1. [Works in progress](#works-in-progress)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
-   - [FPGA implementations of arithmetic functions](fPGA-implementation-of-arithmetic-functions)
+   - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
+   - [C to x86 compiler](#C-to-x86-compiler)
 3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
@@ -65,6 +66,9 @@ VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
 
 - ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
 Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
+
+- ### [C to x86 compiler](https://github.com/ArkhamKnightGPC/C-to-x86-compiler)
+Implementation of a C compiler for the x86 assembly language made for self-study.
 
 ### 📓 Ecole polytechnique courses:
 
