@@ -59,7 +59,7 @@ In this Github page, you'll find my more recent projects as well as university c
 
 ___
 
-### 🍕 Hot out of the oven
+### 🚧 Works in progress
 
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
