@@ -23,7 +23,9 @@ In this Github page, you'll find my more recent projects as well as university c
 
 ## Table of Contents
 1. [Works in progress](#works-in-progress)
+   - [Litex LESS accelerator](#litex-less-accelerator)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
+   - [MiniRV SpinalHDL](#minirv-spinalhdl)
    - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
 3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
@@ -60,8 +62,14 @@ ___
 
 ### 🚧 Works in progress
 
+- ### [Litex LESS accelerator](https://github.com/ArkhamKnightGPC/litex-less-accelerator)
+Study of HW/SW co-design techniques to speed-up execution of the LESS signature scheme on a RISC-V SoC generated using the LiteX framework.
+
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
+
+- ### [MiniRV SpinalHDL](https://github.com/ArkhamKnightGPC/MiniRV-SpinalHDL)
+Study repository with an implementation of a minimal subset of the RISC-V instruction set written in SpinalHDL.
 
 - ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
 Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
