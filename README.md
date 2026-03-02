@@ -2,7 +2,7 @@
 <h3 align="center">Student researcher at University of São Paulo (Ecole polytechnique X22)</h3>
 
 ## 👩‍💻 About Me
-- I am a brazilian computer engineering student currently working at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷
+- I am a brazilian computer engineering student currently working on my engineering thesis project at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷
 - Graduate from the [engineering program at Ecole Polytechnique](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 🇫🇷
 - Worked as a web developer in the [Brazilian edtech Ada Tech](https://ada.tech/)
 - Summer internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
@@ -15,6 +15,8 @@ In this Github page, you'll find my more recent projects as well as university c
 
 📫 Please feel free to reach out to me at gabriel.pereira-de-carvalho.2022@polytechnique.org :)
 
+And please consider checking out my personal website at [arkhamknightgpc.github.io](https://arkhamknightgpc.github.io/).
+
 <p align="center">
 <a href="https://linkedin.com/in/gabrielcarvalho-x22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho-x22" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arkham_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkham_knight" height="30" width="40" /></a>
@@ -22,12 +24,14 @@ In this Github page, you'll find my more recent projects as well as university c
 </p>
 
 ## Table of Contents
-1. [Works in progress](#works-in-progress)
+1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
    - [Litex LESS accelerator](#litex-less-accelerator)
+   - [Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
+3. [Personal works in progress](#works-in-progress)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
    - [MiniRV SpinalHDL](#minirv-spinalhdl)
    - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
-3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
+4. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
@@ -48,7 +52,7 @@ In this Github page, you'll find my more recent projects as well as university c
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-4. [Other projects](#other-projects)  
+5. [Other projects](#other-projects)  
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -60,10 +64,15 @@ In this Github page, you'll find my more recent projects as well as university c
 
 ___
 
-### 🚧 Works in progress
+### 📓 Courses at the University of São Paulo
 
 - ### [Litex LESS accelerator](https://github.com/ArkhamKnightGPC/litex-less-accelerator)
-Study of HW/SW co-design techniques to speed-up execution of the LESS signature scheme on a RISC-V SoC generated using the LiteX framework.
+Thesis project for my engineering degree at the University of São Paulo. Consists on the project and implementation of a Crypto-Coprocessor to speed-up execution of the LESS signature scheme on a RISC-V SoC generated using the LiteX framework.
+
+- ### [Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
+Assignments and project for the FMCW Radar course at the University of São Paulo.
+
+### 🚧 Personal works in progress
 
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
