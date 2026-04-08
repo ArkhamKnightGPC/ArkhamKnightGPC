@@ -11,8 +11,6 @@
 
 In this Github page, you'll find my more recent projects as well as university courses at both Ecole polytechnique and the University of São Paulo.
 
-**Interests**: Computer architecture, Digital electronics, FPGAs, Hardware implementations for cryptography (*crypto-hardware*).
-
 📫 Please feel free to reach out to me at gabriel.pereira-de-carvalho.2022@polytechnique.org :)
 
 And please consider checking out my personal website at [arkhamknightgpc.github.io](https://arkhamknightgpc.github.io/).
