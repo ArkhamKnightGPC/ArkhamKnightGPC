@@ -72,6 +72,9 @@ Assignments and project for the FMCW Radar course at the University of São Paul
 
 ### 🚧 Personal works in progress
 
+- ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
+Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
+
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
 
