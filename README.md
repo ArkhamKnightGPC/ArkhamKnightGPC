@@ -23,7 +23,8 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 
 ## Table of Contents
 1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
-   - [Litex LESS accelerator](#litex-less-accelerator)
+   - [Hardware implementation of SHA-3 security primitives for code-based digital signatures](#hardware-implementation-of-sha-3-security-primitives-for-code-based-digital-signatures)
+   - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
 3. [Personal works in progress](#works-in-progress)
    - [EPUSP-LaTeX](#epusp-latex)
@@ -65,8 +66,11 @@ ___
 
 ### 📓 Courses at the University of São Paulo
 
-- ### [Litex LESS accelerator](https://github.com/ArkhamKnightGPC/litex-less-accelerator)
-Thesis project for my engineering degree at the University of São Paulo. Consists on the project and implementation of a Crypto-Coprocessor to speed-up execution of the LESS signature scheme on a RISC-V SoC generated using the LiteX framework.
+- ### [Hardware implementation of SHA-3 security primitives for code-based digital signatures](https://github.com/ArkhamKnightGPC/sha3-accelerator-litex)
+SHA-3 loosely-coupled hardware accelerator project made with the LiteX framework for my engineering thesis at the University of São Paulo.
+
+- ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
+AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
 
 - ### [Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
 Assignments and project for the FMCW Radar course at the University of São Paulo.
