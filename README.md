@@ -23,15 +23,11 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 
 ## Table of Contents
 1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
-   - [Hardware implementation of SHA-3 security primitives for code-based digital signatures](#hardware-implementation-of-sha-3-security-primitives-for-code-based-digital-signatures)
+   - [Hardware acceleration of SHA-3 primitives for the CROSS digital signature scheme on a RISC-V SoC](#hardware-acceleration-of-sha-3-primitives-for-the-cross-digital-signature-scheme-on-a-risc-v-soc)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
-3. [Personal works in progress](#works-in-progress)
    - [EPUSP-LaTeX](#epusp-latex)
-   - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
-   - [MiniRV SpinalHDL](#minirv-spinalhdl)
-   - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
-5. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
+2. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
@@ -52,7 +48,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-6. [Other projects](#other-projects)  
+3. [Other projects](#other-projects)
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -61,12 +57,16 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [Security System](#security-system)  
    - [Bare Metal Process Switching](#bare-metal-process-switching)  
    - [KBD-ARM-Versatile](#kbd-arm-versatile)
+4. [Personal works in progress](#works-in-progress)
+   - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
+   - [MiniRV SpinalHDL](#minirv-spinalhdl)
+   - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
 
 ___
 
 ### 📓 Courses at the University of São Paulo
 
-- ### [Hardware implementation of SHA-3 security primitives for code-based digital signatures](https://github.com/ArkhamKnightGPC/sha3-accelerator-litex)
+- ### [Hardware acceleration of SHA-3 primitives for the CROSS digital signature scheme on a RISC-V SoC](https://github.com/ArkhamKnightGPC/sha3-accelerator-litex)
 SHA-3 loosely-coupled hardware accelerator project made with the LiteX framework for my engineering thesis at the University of São Paulo.
 
 - ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
@@ -75,19 +75,8 @@ AI Hardware Attack Challenge for inserting and detecting hardware trojans using 
 - ### [Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
 Assignments and project for the FMCW Radar course at the University of São Paulo.
 
-### 🚧 Personal works in progress
-
 - ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
 Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
-
-- ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
-VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
-
-- ### [MiniRV SpinalHDL](https://github.com/ArkhamKnightGPC/MiniRV-SpinalHDL)
-Study repository with an implementation of a minimal subset of the RISC-V instruction set written in SpinalHDL.
-
-- ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
-Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
 
 ### 📓 Ecole polytechnique courses:
 
@@ -176,3 +165,16 @@ Bare metal application implementing process switching in an ARM based processor 
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
 Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+
+
+### 🚧 Personal works in progress
+
+- ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
+VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
+
+- ### [MiniRV SpinalHDL](https://github.com/ArkhamKnightGPC/MiniRV-SpinalHDL)
+Study repository with an implementation of a minimal subset of the RISC-V instruction set written in SpinalHDL.
+
+- ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
+Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
+
