@@ -23,7 +23,9 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 
 ## Table of Contents
 1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
-   - [Hardware acceleration of SHA-3 primitives for the CROSS digital signature scheme on a RISC-V SoC](#hardware-acceleration-of-sha-3-primitives-for-the-cross-digital-signature-scheme-on-a-risc-v-soc)
+   - [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](#hardware-implementation-of-sha-3-security-primitives-for-the-cross-digital-signature-scheme)
+   - [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](#hades-soc-a-risc-v-based-soc-integrating-a-customized-hardware-implementation-of-sha-3-xofs)
+   - [PoliLEGv8 Processor](#polilegv8-processor)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
    - [EPUSP-LaTeX](#epusp-latex)
@@ -66,8 +68,14 @@ ___
 
 ### 📓 Courses at the University of São Paulo
 
-- ### [Hardware acceleration of SHA-3 primitives for the CROSS digital signature scheme on a RISC-V SoC](https://github.com/ArkhamKnightGPC/sha3-accelerator-litex)
-SHA-3 loosely-coupled hardware accelerator project made with the LiteX framework for my engineering thesis at the University of São Paulo.
+- ### [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](https://github.com/ArkhamKnightGPC/SHA3_CROSS)
+This repository contains the VHDL code for HADES, a dedicated digital hardware architecture for SHA-3 extendable-output functions with decoupled I/O stages developed as part of my engineering thesis project at the University of São Paulo. Synthesis metrics are presented using the Yosys synthesis tool and the OpenSTA static timing analyser. Both 32-bit and 64-bit versions of HADES are provided.
+
+- ### [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](https://github.com/ArkhamKnightGPC/HADES_SoC)
+This repository contains a NEORV32 based RISC-V System-on-Chip(SoC) integrating a customized stream-processor peripheral called HADES via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers. In this project, 32-bit HADES is explored as a hardware accelerator for SHA-3 security primitives targeting code-based digital signature scheme CROSS presented as a candidate in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the CROSS reference SHA-3 software implementation against calls to the HADES hardware implementation.
+
+- ### [PoliLEGv8 Processor](https://github.com/ArkhamKnightGPC/PoliLEGv8-Processor)
+SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Systems Design course at the University of São Paulo.
 
 - ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
 AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
