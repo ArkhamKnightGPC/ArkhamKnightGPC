@@ -25,9 +25,11 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
    - [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](#hardware-implementation-of-sha-3-security-primitives-for-the-cross-digital-signature-scheme)
    - [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](#hades-soc-a-risc-v-based-soc-integrating-a-customized-hardware-implementation-of-sha-3-xofs)
+   - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
+   - [PSI5844: Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
+   - [PCS3838: Artificial Intelligence](#pcs3838-artificial-intelligence)
    - [PoliLEGv8 Processor](#polilegv8-processor)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
-   - [Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
    - [EPUSP-LaTeX](#epusp-latex)
 2. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
@@ -74,14 +76,20 @@ This repository contains the VHDL code for HADES, a dedicated digital hardware a
 - ### [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](https://github.com/ArkhamKnightGPC/HADES_SoC)
 This repository contains a NEORV32 based RISC-V System-on-Chip(SoC) integrating a customized stream-processor peripheral called HADES via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers. In this project, 32-bit HADES is explored as a hardware accelerator for SHA-3 security primitives targeting code-based digital signature scheme CROSS presented as a candidate in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the CROSS reference SHA-3 software implementation against calls to the HADES hardware implementation.
 
+- ### [PSI5723: Introduction to CMOS VLSI Systems Design](https://github.com/ArkhamKnightGPC/PSI5723)
+This repository contains problem set solutions from the course PSI5723: Intro to CMOS VLSI Systems Design offered at the University of São Paulo. The reference textbook for the course is Jan Rabaey's Digital Integrated Circuits: A Design Perspective. Materials covered include the design of CMOS combinational and sequential gates, and exercises using Cadence Virtuoso and a library of TSMC components for layout.
+
+- ### [PSI5844: Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
+This repository contains a 5.8GHz single-balanced frequency mixer project developed for the course PSI5844: Project and Implementation of an FMCW Radar. The project was developed using an university license for KeySight ADS, the circuit was fabricated and characterized to verify the project's specifications.
+
+- ### [PCS3838: Artificial Intelligence](https://github.com/ArkhamKnightGPC/PCS3838-ArtificialIntelligence)
+This repository contains personal notes and assignment solutions for the course PCS 3838: Artificial Intelligence at the University of São Paulo. The reference textbook followed in the course is Russel and Norvig's Artificial Intelligence: A Modern Approach.
+
 - ### [PoliLEGv8 Processor](https://github.com/ArkhamKnightGPC/PoliLEGv8-Processor)
 SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Systems Design course at the University of São Paulo.
 
 - ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
 AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
-
-- ### [Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
-Assignments and project for the FMCW Radar course at the University of São Paulo.
 
 - ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
 Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
