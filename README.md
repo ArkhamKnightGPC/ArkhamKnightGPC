@@ -28,6 +28,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
    - [PSI5844: Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
    - [PCS3838: Artificial Intelligence](#pcs3838-artificial-intelligence)
+   - [PCS3858: Embedded Systems Laboratory](#pcs3858-embedded-systems-laboratory)
    - [PoliLEGv8 Processor](#polilegv8-processor)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [EPUSP-LaTeX](#epusp-latex)
@@ -84,6 +85,9 @@ This repository contains a 5.8GHz single-balanced frequency mixer project develo
 
 - ### [PCS3838: Artificial Intelligence](https://github.com/ArkhamKnightGPC/PCS3838-ArtificialIntelligence)
 This repository contains personal notes and assignment solutions for the course PCS 3838: Artificial Intelligence at the University of São Paulo. The reference textbook followed in the course is Russel and Norvig's Artificial Intelligence: A Modern Approach.
+
+- ### [PCS3858: Embedded Systems Laboratory](https://github.com/ArkhamKnightGPC/PCS3858-EmbeddedSystemsLab)
+Open electronics group project for the course PCS 3858: Embedded Systems Laboratory at the University of São Paulo. The project consists of a biometric monitoring system with ESP32-base modular wearable sensor modules and a Rasperry Pi 3B+ based central monitoring dashboard. Wireless communication of the sensor data collected at the ESP32-based sensor nodes is transmitted via MQTT to a Mosquitto broker hosted at the Raspberry Pi.
 
 - ### [PoliLEGv8 Processor](https://github.com/ArkhamKnightGPC/PoliLEGv8-Processor)
 SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Systems Design course at the University of São Paulo.
