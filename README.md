@@ -87,7 +87,7 @@ This repository contains a 5.8GHz single-balanced frequency mixer project develo
 This repository contains personal notes and assignment solutions for the course PCS 3838: Artificial Intelligence at the University of São Paulo. The reference textbook followed in the course is Russel and Norvig's Artificial Intelligence: A Modern Approach.
 
 - ### [PCS3858: Embedded Systems Laboratory](https://github.com/ArkhamKnightGPC/PCS3858-EmbeddedSystemsLab)
-Open electronics group project for the course PCS 3858: Embedded Systems Laboratory at the University of São Paulo. The project consists of a biometric monitoring system with ESP32-base modular wearable sensor modules and a Rasperry Pi 3B+ based central monitoring dashboard. Wireless communication of the sensor data collected at the ESP32-based sensor nodes is transmitted via MQTT to a Mosquitto broker hosted at the Raspberry Pi.
+Open electronics group project for the course PCS 3858: Embedded Systems Laboratory at the University of São Paulo. The project consists of a biometric monitoring system with ESP32 based modular wearable sensor modules and a Rasperry Pi 3B+ based central monitoring dashboard. Wireless communication of the sensor data collected at the ESP32 based sensor nodes is transmitted via MQTT to a Mosquitto broker hosted at the Raspberry Pi.
 
 - ### [PoliLEGv8 Processor](https://github.com/ArkhamKnightGPC/PoliLEGv8-Processor)
 SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Systems Design course at the University of São Paulo.
