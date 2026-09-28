@@ -74,6 +74,7 @@ ___
 
 - ### [Engineering Thesis Monograph](https://github.com/ArkhamKnightGPC/engineering-thesis-monograph)
 **Title: Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme**
+
 LaTeX project for the monograph of my engineering thesis project at the University of São Paulo. The primary objective of this work is to design, implement, and evaluate a dedicated digital hardware architecture for the extendable-output functions of the SHA-3 standard with decoupled Input/Output stages designed for integration as a loosely-coupled accelerator, named HADES. A 32-bit RISC-V System-on-Chip(SoC) integrating the HADES architecture, called HADES-SoC, is presented for FPGA experiments.
 
 - ### [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](https://github.com/ArkhamKnightGPC/SHA3_CROSS)
