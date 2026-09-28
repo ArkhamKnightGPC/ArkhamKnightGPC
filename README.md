@@ -23,6 +23,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 
 ## Table of Contents
 1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
+   - [Engineering Thesis Monograph](#engineering-thesis-monograph)
    - [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](#hardware-implementation-of-sha-3-security-primitives-for-the-cross-digital-signature-scheme)
    - [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](#hades-soc-a-risc-v-based-soc-integrating-a-customized-hardware-implementation-of-sha-3-xofs)
    - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
@@ -32,7 +33,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PoliLEGv8 Processor](#polilegv8-processor)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [EPUSP-LaTeX](#epusp-latex)
-2. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
+3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
    - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
    - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
@@ -53,7 +54,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
    - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-3. [Other projects](#other-projects)
+4. [Other projects](#other-projects)
    - [Competitive Programming Notebook](#competitive-programming-notebook)
    - [Codechef Problems](#codechef-problems)  
    - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
@@ -62,7 +63,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [Security System](#security-system)  
    - [Bare Metal Process Switching](#bare-metal-process-switching)  
    - [KBD-ARM-Versatile](#kbd-arm-versatile)
-4. [Personal works in progress](#works-in-progress)
+5. [Personal works in progress](#works-in-progress)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
    - [MiniRV SpinalHDL](#minirv-spinalhdl)
    - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
@@ -70,6 +71,10 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 ___
 
 ### 📓 Courses at the University of São Paulo
+
+- ### [Engineering Thesis Monograph](https://github.com/ArkhamKnightGPC/engineering-thesis-monograph)
+**Title: Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme**
+LaTeX project for the monograph of my engineering thesis project at the University of São Paulo. The primary objective of this work is to design, implement, and evaluate a dedicated digital hardware architecture for the extendable-output functions of the SHA-3 standard with decoupled Input/Output stages designed for integration as a loosely-coupled accelerator, named HADES. A 32-bit RISC-V System-on-Chip(SoC) integrating the HADES architecture, called HADES-SoC, is presented for FPGA experiments.
 
 - ### [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](https://github.com/ArkhamKnightGPC/SHA3_CROSS)
 This repository contains the VHDL code for HADES, a dedicated digital hardware architecture for SHA-3 extendable-output functions with decoupled I/O stages developed as part of my engineering thesis project at the University of São Paulo. Synthesis metrics are presented using the Yosys synthesis tool and the OpenSTA static timing analyser. Both 32-bit and 64-bit versions of HADES are provided.
