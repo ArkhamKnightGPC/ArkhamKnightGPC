@@ -32,6 +32,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PCS3858: Embedded Systems Laboratory](#pcs3858-embedded-systems-laboratory)
    - [PoliLEGv8 Processor](#polilegv8-processor)
    - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
+   - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
    - [EPUSP-LaTeX](#epusp-latex)
 3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
    - [INF564: Compilation](#inf564-compilation)  
@@ -65,8 +66,6 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [KBD-ARM-Versatile](#kbd-arm-versatile)
 5. [Personal works in progress](#works-in-progress)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
-   - [MiniRV SpinalHDL](#minirv-spinalhdl)
-   - [FPGA implementations of arithmetic functions](#fpga-implementation-of-arithmetic-functions)
 
 ___
 
@@ -100,6 +99,9 @@ SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Sy
 
 - ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
 AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
+
+- ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
+Study repository for the book *A Pipelined Multi-Core MIPS Machine* by Mikhail Kovalev, Silvia M. Müller, and Wolfgang J. Paul with a SystemVerilog implementation of the design proposed in the text.
 
 - ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
 Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
@@ -191,16 +193,3 @@ Bare metal application implementing process switching in an ARM based processor 
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
 Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
-
-
-### 🚧 Personal works in progress
-
-- ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
-VHDL and SystemVerilog implementations of a pipelined multi-core MIPS machine.
-
-- ### [MiniRV SpinalHDL](https://github.com/ArkhamKnightGPC/MiniRV-SpinalHDL)
-Study repository with an implementation of a minimal subset of the RISC-V instruction set written in SpinalHDL.
-
-- ### [FPGA implementation of arithmetic functions](https://github.com/ArkhamKnightGPC/FPGA-implementation-of-arithmetic-functions)
-Study repository with solutions to selected exercises from the book "Guide to FPGA implementation of arithmetic functions". Exercise solutions include testbenches for verification.
-
