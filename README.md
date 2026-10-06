@@ -22,54 +22,54 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 </p>
 
 ## Table of Contents
-1. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
+1. [Engineering Thesis Project at the University of São Paulo](#engineering-thesis-project-at-the-university-of-são-paulo)
    - [Engineering Thesis Monograph](#engineering-thesis-monograph)
    - [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](#hardware-implementation-of-sha-3-security-primitives-for-the-cross-digital-signature-scheme)
    - [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](#hades-soc-a-risc-v-based-soc-integrating-a-customized-hardware-implementation-of-sha-3-xofs)
+2. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
    - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
    - [PSI5844: Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
    - [PCS3838: Artificial Intelligence](#pcs3838-artificial-intelligence)
    - [PCS3858: Embedded Systems Laboratory](#pcs3858-embedded-systems-laboratory)
    - [PoliLEGv8 Processor](#polilegv8-processor)
-   - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
-   - [EPUSP-LaTeX](#epusp-latex)
-3. [Ecole polytechnique courses](#ecole-polytechnique-courses)  
-   - [INF564: Compilation](#inf564-compilation)  
-   - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)  
-   - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)  
-   - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)  
+   - [Security System](#security-system)
+   - [KBD-ARM-Versatile](#kbd-arm-versatile)
+   - [Bare Metal Process Switching](#bare-metal-process-switching)
+   - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)
+3. [Ecole polytechnique courses](#ecole-polytechnique-courses)
+   - [INF564: Compilation](#inf564-compilation)
+   - [INF567: Wireless Networks (Problem Sheets)](#inf567-wireless-networks-problem-sheets)
+   - [INF567: Wireless Networks (Project)](#inf567-wireless-networks-project)
+   - [PHY581C: ASIC Design with Cadence Virtuoso](#phy581c-asic-design-with-cadence-virtuoso)
    - [PHY564A: Open Electronics (Final Project)](#phy564a-open-electronics-final-project)
    - [PHY564: Open Electronics (Starter Project)](#phy564-open-electronics-starter-project)
-   - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)  
+   - [INF554: Machine and Deep Learning](#inf554-machine-and-deep-learning)
    - [INF557: Fundamentals of Computer Networking](#inf557-fundamentals-of-computer-networking)
    - [PHY573A: Micro and Nano electronics Experimental Designs](#phy573a-micro-and-nano-electronics-experimental-designs)
    - [PHY559A: Conception of Digital and Analog Integrated Circuits](#phy559a-conception-of-digital-and-analog-integrated-circuits)
    - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)
    - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)
-   - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)  
-   - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)  
-   - [MAP412: Numerical Analysis](#map412-numerical-analysis)  
+   - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)
+   - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)
+   - [MAP412: Numerical Analysis](#map412-numerical-analysis)
    - [MAP433: Statistics](#map433-statistics)
-   - [MAP432: Markov Chains and Martingales](#map432-markov-chains-and-martingales)  
-   - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)  
+   - [MAP432: Markov Chains and Martingales](#map432-markov-chains-and-martingales)
+   - [PHY431: Special Relativity and Variational Mechanics](#phy431-special-relativity-and-variational-mechanics)
    - [INF371: Object-Oriented Programming](#inf371-object-oriented-programming)
-   - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)  
-4. [Other projects](#other-projects)
+   - [Polytechnique Tronc Commun](#polytechnique-tronc-commun)
+4. [Miscellaneous](#miscellaneous)
+   - [HOST AI Hardware Attack Challenge 2026](#host-ai-hardware-attack-challenge-2026)
+   - [EPUSP-LaTeX](#epusp-latex)
+   - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)
+   - [IP Tracker](#ip-tracker)
+5. [Competitive Programming](#competitive-programming)
    - [Competitive Programming Notebook](#competitive-programming-notebook)
-   - [Codechef Problems](#codechef-problems)  
-   - [IP Paris Swarm Rescue Competition](#ip-paris-swarm-rescue-competition)  
-   - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)  
-   - [IP Tracker](#ip-tracker)  
-   - [Security System](#security-system)  
-   - [Bare Metal Process Switching](#bare-metal-process-switching)  
-   - [KBD-ARM-Versatile](#kbd-arm-versatile)
-5. [Personal works in progress](#works-in-progress)
-   - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
+   - [Codechef Problems](#codechef-problems)
 
 ___
 
-### 📓 Courses at the University of São Paulo
+### 📓 Engineering Thesis Project at the University of São Paulo
 
 - ### [Engineering Thesis Monograph](https://github.com/ArkhamKnightGPC/engineering-thesis-monograph)
 **Title: Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme**
@@ -81,6 +81,8 @@ This repository contains the VHDL code for HADES, a dedicated digital hardware a
 
 - ### [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](https://github.com/ArkhamKnightGPC/HADES_SoC)
 This repository contains a NEORV32 based RISC-V System-on-Chip(SoC) integrating a customized stream-processor peripheral called HADES via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers. In this project, 32-bit HADES is explored as a hardware accelerator for SHA-3 security primitives targeting code-based digital signature scheme CROSS presented as a candidate in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the CROSS reference SHA-3 software implementation against calls to the HADES hardware implementation.
+
+### 📓 Courses at the University of São Paulo
 
 - ### [PSI5723: Introduction to CMOS VLSI Systems Design](https://github.com/ArkhamKnightGPC/PSI5723)
 This repository contains problem set solutions from the course PSI5723: Intro to CMOS VLSI Systems Design offered at the University of São Paulo. The reference textbook for the course is Jan Rabaey's Digital Integrated Circuits: A Design Perspective. Materials covered include the design of CMOS combinational and sequential gates, and exercises using Cadence Virtuoso and a library of TSMC components for layout.
@@ -97,14 +99,18 @@ Open electronics group project for the course PCS 3858: Embedded Systems Laborat
 - ### [PoliLEGv8 Processor](https://github.com/ArkhamKnightGPC/PoliLEGv8-Processor)
 SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Systems Design course at the University of São Paulo.
 
-- ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
-AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
-
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 Study repository for the book *A Pipelined Multi-Core MIPS Machine* by Mikhail Kovalev, Silvia M. Müller, and Wolfgang J. Paul with a SystemVerilog implementation of the design proposed in the text.
 
-- ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
-Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
+- ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
+Group project for a Digital Systems Lab at University of São Paulo. VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+
+- ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
+Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
+
+- ### [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos)
+Solution to a problem from the Microprocessors Lab at University of São Paulo. Bare metal application implementing process switching in an ARM based processor emulator.
+
 
 ### 📓 Ecole polytechnique courses:
 
@@ -168,28 +174,24 @@ Assignements from the course INF371: Mechanisms of Object-Oriented Programming L
 - ### [Polytechnique Tronc Commun](https://github.com/ArkhamKnightGPC/PetitesClassesTroncCommun)
 Some homework assignments for first year courses in maths and physics at École polytechnique (Analysis, Probability Theory and Quantum Mechanics). Solutions are provided in Latex. A [project on spatial properties of hash tables was done in a separate repository](https://github.com/ArkhamKnightGPC/MAP361HashTables).
 
-### 💻 Other projects:
+### 💻 Miscellaneous:
+
+- ### [HOST AI Hardware Attack Challenge 2026](https://github.com/ArkhamKnightGPC/AHA_Challenge_2026)
+AI Hardware Attack Challenge for inserting and detecting hardware trojans using LLMs. The competition is a satellite event of IEEE HOST 2026.
+
+- ### [EPUSP-LaTeX](https://github.com/ArkhamKnightGPC/EPUSP-LaTeX)
+Unofficial LaTeX package for documents and presentations for EPUSP (Escola Politécnica da Universidade de São Paulo).
+
+- ### [IP Paris Swarm Rescue Competition](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
+Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
+
+- ### [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)
+IP Tracker made using Next.js and the **react-leaflet** package.
+
+### 💻 Competitive Programming:
 
 - ### [Competitive Programming notebook](https://github.com/ArkhamKnightGPC/CadernoArkhamICPC)
 Solutions to competitive programming problems. Includes C++ implementations of Fast Fourier Transform, Wavelet Trees, the Aho-Corasick automaton, Dynamic connectivity, Reachability Trees, Heavy-Light decomposition, Manacher's algorithm, Li Chao Trees for the Convex Hull Optimization technique in dynamic programming problems, Merge Sort Trees, Persistent Segment Trees, Fast Kuhn algorithm for the maximum bipartite matching problem, Treaps (randomized binary search trees) and Tarjan's algorithm for finding bridges and articulation points in trees.
 
 - ### [Codechef Problems](https://github.com/ArkhamKnightGPC/CodechefProblems)
 Solutions to Codechef problems! Includes topics in number theory, graphs, fenwick trees, dynamic programming, game theory, greedy algorithms and more!
-
-- ### [IP Paris Swarm Rescue Competition](https://github.com/ArkhamKnightGPC/drone-swarm-psc)
-Group project developed for the [IP Paris Swarm Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/). The project consists of a comparative analysis of different approaches to teach a swarm of drones how to behave to save a maximum of injured people in a minimum of time on a simulated environment.
-
-- ### [Newsfeed Super Aggregator](https://github.com/ArkhamKnightGPC/SuperAgregador)
-Group project for an Object Oriented Programming Lab at University of São Paulo. Web application using the Java SpringBoot framework to create personalised news feeds based on a user's preferred news websites. Bootstrap was used for the frontend and a word cloud feature was implemented using the Kumo library and the Aho Corasick automaton for pattern matching and frequency counting.
-
-- ### [IP Tracker](https://github.com/ArkhamKnightGPC/RastreadorIP)
-IP Tracker made using Next.js and the **react-leaflet** package.
-
-- ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
-Group project for a Digital Systems Lab at University of São Paulo. VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
-
-- ### [Bare metal process switching](https://github.com/ArkhamKnightGPC/ChaveamentoProcessos)
-Bare metal application implementing process switching in an ARM based processor emulator.
-
-- ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
-Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
