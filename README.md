@@ -85,7 +85,7 @@ This repository contains a NEORV32 based RISC-V System-on-Chip(SoC) integrating 
 ### 📓 Courses at the University of São Paulo
 
 - ### [PSI5723: Introduction to CMOS VLSI Systems Design](https://github.com/ArkhamKnightGPC/PSI5723-CMOS-DigitalDesign)
-This repository contains solutions to practical problem sets from the course PSI5723: Intro to CMOS VLSI Systems Design offered at the University of São Paulo using Cadence Virtuoso and a library of TSMC components for layout.. The reference textbook for the course is Jan Rabaey's Digital Integrated Circuits: A Design Perspective.
+This repository contains solutions to practical problem sets from the course PSI5723: Intro to CMOS VLSI Systems Design offered at the University of São Paulo using Cadence Virtuoso and a library of TSMC components for layout. The reference textbook for the course is Jan Rabaey's Digital Integrated Circuits: A Design Perspective.
 
 - ### [PSI5844: Project and Implementation of an FMCW Radar](https://github.com/ArkhamKnightGPC/fmcw-radar)
 This repository contains a 5.8GHz single-balanced frequency mixer project developed for the course PSI5844: Project and Implementation of an FMCW Radar. The project was developed using an university license for KeySight ADS, the circuit was fabricated and characterized to verify the project's specifications.
