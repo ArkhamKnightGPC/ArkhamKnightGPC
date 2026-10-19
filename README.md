@@ -51,6 +51,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PHY473R: FPGA Lab Course](#phy473r-fpga-lab-course)
    - [INF442: Data Analysis in C++](#inf442-data-analysis-in-c)
    - [INF443: 3D Computer Graphics with C++/OpenGL](#inf443-3d-computer-graphics-with-copengl)
+   - [INF443 Project: Treasure Hunting in Ancient Egypt](#inf443-project-treasure-hunting-in-ancient-egypt)
    - [INF421: Algorithms Design (Course Project)](#inf421-algorithms-design-course-project)
    - [MAP412: Numerical Analysis](#map412-numerical-analysis)
    - [MAP433: Statistics](#map433-statistics)
@@ -152,6 +153,9 @@ Assignments from the Data Analysis in C++ course at École polytechnique. Includ
 
 - ### [INF443: 3D computer graphics with C++/OpenGL](https://github.com/ArkhamKnightGPC/INF443)
 Assignments from the course 3D computer graphics at École polytechnique using ***C++*** and ***OpenGL***. Includes implementations of shader effects, Phong shading, procedural 3D modelisation, textures, animation and physical simulation.
+
+- ### [INF443 Project: Treasure Hunting in Ancient Egypt](https://github.com/ArkhamKnightGPC/OpenGL_AncientEgyptProject)
+3D recreation of an archeological site in Ancient Egypt, roughly inspired by the Giza pyramid complex, trying to capture the distinct feel of this time period. To provide an incentive for exploration and experimentation with the controls, we scattered treasures across the map. In this way, the scene we designed can be experienced as a minigame: find all the hidden treasures in the map. The GUI includes a counter in order to track the number of treasures still missing.
 
 - ### [INF421: Algorithms Design (course project)](https://github.com/ArkhamKnightGPC/INF421)
 Evolutionary algorithms project for an informatics course at École Polytechnique. Includes complexity proofs using fitness levels and empirical performance analysis on benchmark functions.
