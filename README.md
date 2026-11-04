@@ -24,8 +24,8 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
 ## Table of Contents
 1. [Engineering Thesis Project at the University of São Paulo](#engineering-thesis-project-at-the-university-of-são-paulo)
    - [Engineering Thesis Monograph](#engineering-thesis-monograph)
-   - [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](#hardware-implementation-of-sha-3-security-primitives-for-the-cross-digital-signature-scheme)
-   - [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](#hades-soc-a-risc-v-based-soc-integrating-a-customized-hardware-implementation-of-sha-3-xofs)
+   - [LOCO-SHA3: a LOosely-COupled data-stream coprocessor for SHA-3 hash and extendable-output functions](#loco-sha3-a-loosely-coupled-data-stream-coprocessor-for-sha-3-hash-and-extendable-output-functions)
+   - [LOCO-SoC: a RISC-V based SoC integrating the LOCO-SHA3 coprocessor](#loco-soc-a-risc-v-based-soc-integrating-the-loco-sha3-coprocessor)
 2. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
    - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
    - [PSI5844: Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
@@ -73,15 +73,15 @@ ___
 ### 📓 Engineering Thesis Project at the University of São Paulo
 
 - ### [Engineering Thesis Monograph](https://github.com/ArkhamKnightGPC/engineering-thesis-monograph)
-**Title: Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme**
+**Title: Design and Evaluation of a Loosely-Coupled SHA-3 Hardware Accelerator in a RISC-V SoC for Post-Quantum Signature Schemes**
 
-LaTeX project for the monograph of my engineering thesis project at the University of São Paulo. The primary objective of this work is to design, implement, and evaluate a dedicated digital hardware architecture for the extendable-output functions of the SHA-3 standard with decoupled Input/Output stages designed for integration as a loosely-coupled accelerator, named HADES. A 32-bit RISC-V System-on-Chip(SoC) integrating the HADES architecture, called HADES-SoC, is presented for FPGA experiments.
+LaTeX project for the monograph of my engineering thesis project at the University of São Paulo. The primary objective of this work is to design, implement, and evaluate LOCO-SHA3: a LOosely-COupled data-stream coprocessor for the hash and extendable-output functions from the SHA-3 standard. For FPGA experiments, a 32-bit RISC-V System-on-Chip(SoC) integrating the LOCO-SHA3 accelerator called LOCO-SoC was developed. The hardware-accelerated implementations developed for the experiments targeted Post-Quantum signature schemes CROSS and SPHINCS+, where profiling identified SHA-3 functions as the main computational bottleneck.
 
-- ### [Hardware implementation of SHA-3 security primitives for the CROSS digital signature scheme](https://github.com/ArkhamKnightGPC/SHA3_CROSS)
-This repository contains the VHDL code for HADES, a dedicated digital hardware architecture for SHA-3 extendable-output functions with decoupled I/O stages developed as part of my engineering thesis project at the University of São Paulo. Synthesis metrics are presented using the Yosys synthesis tool and the OpenSTA static timing analyser. The architecture supports 8-bit, 32-bit and 64-bit word sizes for I/O. A constrained-random testbench made with the cocotb Python package is provided for functional verification against a reference implementation of SHA-3 functions in C.
+- ### [LOCO-SHA3: a LOosely-COupled data-stream coprocessor for SHA-3 hash and extendable-output functions](https://github.com/ArkhamKnightGPC/LOCO-SHA3)
+This repository contains the VHDL code for LOCO-SHA3, a dedicated digital hardware architecture for SHA-3 functions as part of my engineering thesis project at the University of São Paulo. Synthesis metrics are presented using the Yosys synthesis tool and the OpenSTA static timing analyser. A constrained-random testbench made with the cocotb Python package is provided for functional verification against a reference implementation of SHA-3 functions in C.
 
-- ### [HADES-SoC: a RISC-V based SoC integrating a customized hardware implementation of SHA-3 XOFs](https://github.com/ArkhamKnightGPC/HADES_SoC)
-This repository contains a NEORV32 based RISC-V System-on-Chip(SoC) integrating a customized stream-processor peripheral called HADES via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers. In this project, 8-bit HADES is explored as a hardware accelerator for SHA-3 security primitives targeting code-based digital signature scheme CROSS presented as a candidate in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the CROSS reference C implementation against a hardware-accelerated implementation using HADES.
+- ### [LOCO-SoC: a RISC-V based SoC integrating the LOCO-SHA3 coprocessor](https://github.com/ArkhamKnightGPC/LOCO-SoC)
+This repository contains a NEORV32-based RISC-V System-on-Chip(SoC) integrating the LOCO-SHA3 coprocessor via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers. In this project, LOCO-SHA3 is evaluated as a hardware accelerator for SHA-3 security primitives targeting Post-Quantum signature schemes CROSS and SPHINCS+, both presented in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the reference C implementations against hardware-accelerated implementations using LOCO-SHA3.
 
 ### 📓 Courses at the University of São Paulo
 
