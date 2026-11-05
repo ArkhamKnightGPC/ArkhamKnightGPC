@@ -26,6 +26,7 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [Engineering Thesis Monograph](#engineering-thesis-monograph)
    - [LOCO-SHA3: a LOosely-COupled data-stream coprocessor for SHA-3 hash and extendable-output functions](#loco-sha3-a-loosely-coupled-data-stream-coprocessor-for-sha-3-hash-and-extendable-output-functions)
    - [LOCO-SoC: a RISC-V based SoC integrating the LOCO-SHA3 coprocessor](#loco-soc-a-risc-v-based-soc-integrating-the-loco-sha3-coprocessor)
+   - [Profiling PQC digital signatures](#profiling-pqc-digital-signatures)
 2. [Courses at the University of São Paulo](#courses-at-the-university-of-sao-paulo)
    - [PSI5723: Introduction to CMOS VLSI Systems Design](#psi5723-introduction-to-cmos-vlsi-systems-design)
    - [PSI5844: Project and Implementation of an FMCW Radar](#project-and-implementation-of-an-fmcw-radar)
@@ -73,7 +74,7 @@ ___
 ### 📓 Engineering Thesis Project at the University of São Paulo
 
 - ### [Engineering Thesis Monograph](https://github.com/ArkhamKnightGPC/engineering-thesis-monograph)
-**Title: Design and Evaluation of a Loosely-Coupled SHA-3 Hardware Accelerator in a RISC-V SoC for Post-Quantum Signature Schemes**
+**Title: Designing a Loosely-Coupled SHA-3 Coprocessor and Applications to Post-Quantum Digital Signatures**
 
 LaTeX project for the monograph of my engineering thesis project at the University of São Paulo. The primary objective of this work is to design, implement, and evaluate LOCO-SHA3: a LOosely-COupled data-stream coprocessor for the hash and extendable-output functions from the SHA-3 standard. For FPGA experiments, a 32-bit RISC-V System-on-Chip(SoC) integrating the LOCO-SHA3 accelerator called LOCO-SoC was developed. The hardware-accelerated implementations developed for the experiments targeted Post-Quantum signature schemes CROSS and SPHINCS+, where profiling identified SHA-3 functions as the main computational bottleneck.
 
@@ -82,6 +83,9 @@ This repository contains the VHDL code for LOCO-SHA3, a dedicated digital hardwa
 
 - ### [LOCO-SoC: a RISC-V based SoC integrating the LOCO-SHA3 coprocessor](https://github.com/ArkhamKnightGPC/LOCO-SoC)
 This repository contains the VHDL code for LOCO-SoC: a NEORV32-based RISC-V System-on-Chip(SoC) integrating the LOCO-SHA3 coprocessor via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers and C code for the LOCO-SHA3 driver and the system firmware used in the proposed experiments. In this project, LOCO-SHA3 is evaluated as a hardware accelerator for SHA-3 security primitives targeting Post-Quantum signature schemes CROSS and SPHINCS+, both presented in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the reference C implementations against hardware-accelerated implementations using LOCO-SHA3.
+
+- ### [Profiling PQC digital signatures](https://github.com/ArkhamKnightGPC/profiling-PQC-digital-signatures)
+This repository contains scripts to collect profiling information for the reference implementations of the CROSS and SPHINCS+ digital signatures schemes using the Valgrind/Callgrind tools. The profiling results identify SHA-3 primitives as an important computational bootleneck motivating the development of the LOCO-SHA3 coprocessor.
 
 ### 📓 Courses at the University of São Paulo
 
