@@ -85,7 +85,7 @@ This repository contains the VHDL code for LOCO-SHA3, a dedicated digital hardwa
 This repository contains the VHDL code for LOCO-SoC: a NEORV32-based RISC-V System-on-Chip(SoC) integrating the LOCO-SHA3 coprocessor via the NEORV32 Stream Link Interface (SLINK) and memory-mapped control registers and C code for the LOCO-SHA3 driver and the system firmware used in the proposed experiments. In this project, LOCO-SHA3 is evaluated as a hardware accelerator for SHA-3 security primitives targeting Post-Quantum signature schemes CROSS and SPHINCS+, both presented in the NIST Post-Quantum Cryptography (PQC) standardization process. The RISC-V system built here was developed as part of my engineering thesis project at the University of São Paulo to compare runtime metrics for the reference C implementations against hardware-accelerated implementations using LOCO-SHA3.
 
 - ### [Profiling PQC digital signatures](https://github.com/ArkhamKnightGPC/profiling-PQC-digital-signatures)
-This repository contains scripts to collect profiling information for the reference implementations of the CROSS and SPHINCS+ digital signatures schemes using the Valgrind/Callgrind tools. The profiling results identify SHA-3 primitives as an important computational bootleneck motivating the development of the LOCO-SHA3 coprocessor.
+This repository contains scripts to collect profiling information for the reference implementations of the CROSS and SLH-DSA digital signatures schemes using the Linux perf tool. The profiling results identify SHA-3 primitives as an important computational bootleneck motivating the development of the LOCO-SHA3 coprocessor.
 
 ### 📓 Courses at the University of São Paulo
 
