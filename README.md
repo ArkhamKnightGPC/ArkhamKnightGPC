@@ -35,7 +35,8 @@ And please consider checking out my personal website at [arkhamknightgpc.github.
    - [PCS3858: Embedded Systems Laboratory](#pcs3858-embedded-systems-laboratory)
    - [PoliLEGv8 Processor](#polilegv8-processor)
    - [Pipelined Multi Core MIPS Machine](#pipelined-multi-core-mips-machine)
-   - [Security System](#security-system)
+   - [Digital Systems Lab II Project: Security System](#digital-systems-lab-II-project-security-system)
+   - [Digital Systems Lab I Project: Simon Memory Game](#digital-systems-lab-I-project-simon-memory-game)
    - [KBD-ARM-Versatile](#kbd-arm-versatile)
    - [Bare Metal Process Switching](#bare-metal-process-switching)
    - [Newsfeed Super Aggregator](#newsfeed-super-aggregator)
@@ -111,8 +112,11 @@ SystemVerilog implementation for the PoliLEGv8 processor presented in Digital Sy
 - ### [Pipelined Multi Core MIPS Machine](https://github.com/ArkhamKnightGPC/Pipelined-Multi-Core-MIPS-Machine)
 Study repository for the book *A Pipelined Multi-Core MIPS Machine* by Mikhail Kovalev, Silvia M. Müller, and Wolfgang J. Paul with a SystemVerilog implementation of the design proposed in the text.
 
-- ### [Security system](https://github.com/ArkhamKnightGPC/sistema-seguranca)
-Group project for a Digital Systems Lab at University of São Paulo. VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+- ### [Digital Systems Lab II Project: Security System](https://github.com/ArkhamKnightGPC/sistema-seguranca)
+Group project for the Digital Systems Lab II course at University of São Paulo. VHDL project for a security system using an ultrasonic sensor and a servo motor. Can be controlled using a Processing application through MQTT messaging.
+
+- ### [Digital Systems Lab I Project: Simon Memory Game](https://github.com/ArkhamKnightGPC/projeto-genius)
+Group project for the Digital Systems Lab I at University of São Paulo. VHDL project recreating the classic Simon memory game with customized modes and timeouts.
 
 - ### [KBD-ARM-Versatile](https://github.com/ArkhamKnightGPC/KBD-ARM-Versatile)
 Project from a Microprocessors Lab at University of São Paulo. Simple keyboard driver built using the **gcc-arm-none-eabi** toolchain on the **qemu-system-arm** system emulator for the ARM Versatile board.
